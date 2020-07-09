@@ -1,0 +1,6 @@
+c:\users\0939\documents\visual studio 2017\Projects\SoalProgramingKreditPlus\SoalProgramingKreditPlus\bin\Debug\SoalProgramingKreditPlus.exe.config
+c:\users\0939\documents\visual studio 2017\Projects\SoalProgramingKreditPlus\SoalProgramingKreditPlus\bin\Debug\SoalProgramingKreditPlus.exe
+c:\users\0939\documents\visual studio 2017\Projects\SoalProgramingKreditPlus\SoalProgramingKreditPlus\bin\Debug\SoalProgramingKreditPlus.pdb
+c:\users\0939\documents\visual studio 2017\Projects\SoalProgramingKreditPlus\SoalProgramingKreditPlus\obj\Debug\SoalProgramingKreditPlus.csprojResolveAssemblyReference.cache
+c:\users\0939\documents\visual studio 2017\Projects\SoalProgramingKreditPlus\SoalProgramingKreditPlus\obj\Debug\SoalProgramingKreditPlus.exe
+c:\users\0939\documents\visual studio 2017\Projects\SoalProgramingKreditPlus\SoalProgramingKreditPlus\obj\Debug\SoalProgramingKreditPlus.pdb
